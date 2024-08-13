@@ -1,7 +1,6 @@
 ### <div align="center">Hi 👋 I'm Elanngo Madheswaran, a passionate web developer 👨‍💻 from India 🚀</div>  
   
 
--   
   
 
 - 🌱 I’m currently learning next js and tailwind css  
@@ -77,27 +76,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=elanngo-madheswaran&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanngo-madheswaran&hide_border=true&layout=compact" align="left" />  
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=elanngo-madheswaran&show_icons=true&count_private=true&hide_border=true" />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanngo-madheswaran&hide_border=true&layout=compact" /> 
+</div> 
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=elanngo-madheswaran&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=elanngo-madheswaran&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center"></div>
-<br />
