@@ -92,7 +92,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=elanngo-madheswaran&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=elanngo-madheswarane&style=for-the-badge" align="center" />
 </div>  
   
 
