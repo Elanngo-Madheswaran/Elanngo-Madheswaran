@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am an open-source enthusiast
 
 
-- 📫 Reach me out at madheswaranelanngo@gmail.com 
+- 📫 Reach me out at elanngo@proton.me 
   
 
 <br/>  
