@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am an open-source enthusiast
 
 
-- 📫 Reach me out at elanngo@disr.it 
+- 📫 Reach me out at elanngo@disroot.org
   
 
 <br/>  
